@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DPO1_U1_EA_OSHD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DPO1_U1_EA_OSHD_jar</output-path>
+    <root id="archive" name="DPO1_U1_EA_OSHD.jar">
+      <element id="module-output" name="DPO1_U1_EA_OSHD" />
+    </root>
+  </artifact>
+</component>

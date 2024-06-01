@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DPO1_U1_EA_OSHD/DPO1_U1_EA_OSHD.iml" filepath="$PROJECT_DIR$/DPO1_U1_EA_OSHD/DPO1_U1_EA_OSHD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWORD/HelloWORD.iml" filepath="$PROJECT_DIR$/HelloWORD/HelloWORD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+    </modules>
+  </component>
+</project>
